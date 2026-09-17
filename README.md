@@ -153,3 +153,15 @@ The app is limited to 2 CPUs and 2 GiB of memory. That is enough for direct
 play to several people and one software transcode at a time. Raise `limits`
 in `template.yaml` to 4 CPUs and 4 GiB for more transcoding, large library
 scans, or trickplay image generation.
+
+---
+
+<!-- cubeship-crosslink -->
+
+## About Cubeship
+
+This is a template for [**Cubeship**](https://github.com/cubeshipd/cubeship) —
+a PaaS you run on your own server: `docker push`, and it is live, with HTTPS,
+a database beside it, and a second machine when one stops being enough.
+
+Browse every template at [cubeship.dev/templates](https://cubeship.dev/templates).
